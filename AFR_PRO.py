@@ -1,2 +1,2 @@
-import BETA_VERSION_AFR
-BETA_VERSION_AFR.veerobuy()
+import Umar_Afridi
+Umar_Afridi.veerobuy()
