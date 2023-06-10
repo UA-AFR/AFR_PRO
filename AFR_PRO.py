@@ -1,0 +1,2 @@
+import BETA_VERSION_AFR
+BETA_VERSION_AFR.veerobuy()
